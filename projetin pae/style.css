@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding:0;
+
+}
+body{
+    background-color: #3b3b3b;
+    
+}
+
+#resultado img{
+    width: 200px;
+    height: 200px;
+   
+}
+
+#resultado {
+    display: flex;
+   color: white;
+}
+
